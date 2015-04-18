@@ -1,8 +1,8 @@
-Server Side Validation for Meteor
+Meteor validator
 ======
 
-Example Usage (Verify an email is valid)
+## Useage:
 
-```
-Validator.isEmail('foo@bar.com'); //=> true
-```
+Call **validate** from server and client directly.
+
+API Refrecence: [https://github.com/chriso/validator.js](https://github.com/chriso/validator.js)
